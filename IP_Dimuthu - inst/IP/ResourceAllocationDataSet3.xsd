@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ResourceAllocationDataSet3" targetNamespace="http://tempuri.org/ResourceAllocationDataSet3.xsd" xmlns:mstns="http://tempuri.org/ResourceAllocationDataSet3.xsd" xmlns="http://tempuri.org/ResourceAllocationDataSet3.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ResourceAllocationConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ResourceAllocationConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.IP.Properties.Settings.GlobalReference.Default.ResourceAllocationConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="lecturersTableAdapter" GeneratorDataComponentClassName="lecturersTableAdapter" Name="lecturers" UserDataComponentName="lecturersTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ResourceAllocationConnectionString (Settings)" DbObjectName="ResourceAllocation.dbo.lecturers" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT lec_id FROM dbo.lecturers</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="lec_id" DataSetColumn="lec_id" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ResourceAllocationDataSet3" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="ResourceAllocationDataSet3" msprop:Generator_UserDSName="ResourceAllocationDataSet3">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="lecturers" msprop:Generator_TableClassName="lecturersDataTable" msprop:Generator_TableVarName="tablelecturers" msprop:Generator_TablePropName="lecturers" msprop:Generator_RowDeletingName="lecturersRowDeleting" msprop:Generator_RowChangingName="lecturersRowChanging" msprop:Generator_RowEvHandlerName="lecturersRowChangeEventHandler" msprop:Generator_RowDeletedName="lecturersRowDeleted" msprop:Generator_UserTableName="lecturers" msprop:Generator_RowChangedName="lecturersRowChanged" msprop:Generator_RowEvArgName="lecturersRowChangeEvent" msprop:Generator_RowClassName="lecturersRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="lec_id" msprop:Generator_ColumnVarNameInTable="columnlec_id" msprop:Generator_ColumnPropNameInRow="lec_id" msprop:Generator_ColumnPropNameInTable="lec_idColumn" msprop:Generator_UserColumnName="lec_id">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

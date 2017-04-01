@@ -1,0 +1,43 @@
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\IP\bin\Debug\IP.exe.config
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\IP\bin\Debug\IP.exe
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\IP\bin\Debug\IP.pdb
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\IP\obj\Debug\IP.csprojResolveAssemblyReference.cache
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\IP\obj\Debug\IP.Properties.Resources.resources
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\IP\obj\Debug\IP.csproj.GenerateResource.Cache
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\IP\obj\Debug\IP.exe
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\IP\obj\Debug\IP.pdb
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\IP\obj\Debug\IP.AddInstructor.resources
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\IP\obj\Debug\IP.AddGroups.resources
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\IP\obj\Debug\IP.AdminPanelEntry.resources
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\IP\obj\Debug\IP.ViewLecturers.resources
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\IP\obj\Debug\IP.Addbatches.resources
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\IP\obj\Debug\IP.AddDegrees.resources
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\IP\obj\Debug\IP.AddLabs.resources
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\IP\obj\Debug\IP.AddLectureHalls.resources
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\IP\obj\Debug\IP.AddModule.resources
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\IP\obj\Debug\IP.AddNewLecturers.resources
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\IP\obj\Debug\IP.AddNotices.resources
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\IP\obj\Debug\IP.AddTerms.resources
+H:\IP\IP\bin\Debug\IP.exe.config
+H:\IP\IP\obj\Debug\IP.exe
+H:\IP\IP\obj\Debug\IP.pdb
+H:\IP\IP\bin\Debug\IP.exe
+H:\IP\IP\bin\Debug\IP.pdb
+H:\IP\IP\obj\Debug\IP.csprojResolveAssemblyReference.cache
+H:\IP\IP\obj\Debug\IP.Addbatches.resources
+H:\IP\IP\obj\Debug\IP.AddDegrees.resources
+H:\IP\IP\obj\Debug\IP.AddGroups.resources
+H:\IP\IP\obj\Debug\IP.AddInstructor.resources
+H:\IP\IP\obj\Debug\IP.AddLabs.resources
+H:\IP\IP\obj\Debug\IP.AddLectureHalls.resources
+H:\IP\IP\obj\Debug\IP.AddModule.resources
+H:\IP\IP\obj\Debug\IP.AddNewLecturers.resources
+H:\IP\IP\obj\Debug\IP.AddNotices.resources
+H:\IP\IP\obj\Debug\IP.AddTerms.resources
+H:\IP\IP\obj\Debug\IP.AdminPanelEntry.resources
+H:\IP\IP\obj\Debug\IP.Properties.Resources.resources
+H:\IP\IP\obj\Debug\IP.ViewLecturers.resources
+H:\IP\IP\obj\Debug\IP.csproj.GenerateResource.Cache
+D:\NSBM STAGE 2\Resource Allocation\IP_Dimuthu - Copy\IP\bin\Debug\IP.exe.config
+D:\NSBM STAGE 2\Resource Allocation\IP_Dimuthu - Copy\IP\obj\Debug\IP.exe
+D:\NSBM STAGE 2\Resource Allocation\IP_Dimuthu - Copy\IP\obj\Debug\IP.pdb

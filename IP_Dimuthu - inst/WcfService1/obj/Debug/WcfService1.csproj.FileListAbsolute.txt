@@ -1,0 +1,17 @@
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\WcfService1\bin\WcfService1.dll.config
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\WcfService1\bin\WcfService1.dll
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\WcfService1\bin\WcfService1.pdb
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\Dimuthu\Documents\Visual Studio 2013\IP\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+H:\IP\WcfService1\bin\WcfService1.dll.config
+H:\IP\WcfService1\bin\WcfService1.dll
+H:\IP\WcfService1\bin\WcfService1.pdb
+H:\IP\WcfService1\obj\Debug\WcfService1.dll
+H:\IP\WcfService1\obj\Debug\WcfService1.pdb
+D:\NSBM STAGE 2\Resource Allocation\IP_Dimuthu - Copy\WcfService1\bin\WcfService1.dll.config
+D:\NSBM STAGE 2\Resource Allocation\IP_Dimuthu - Copy\WcfService1\bin\WcfService1.dll
+D:\NSBM STAGE 2\Resource Allocation\IP_Dimuthu - Copy\WcfService1\bin\WcfService1.pdb
+D:\NSBM STAGE 2\Resource Allocation\IP_Dimuthu - Copy\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+D:\NSBM STAGE 2\Resource Allocation\IP_Dimuthu - Copy\WcfService1\obj\Debug\WcfService1.dll
+D:\NSBM STAGE 2\Resource Allocation\IP_Dimuthu - Copy\WcfService1\obj\Debug\WcfService1.pdb
